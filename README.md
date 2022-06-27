@@ -1,0 +1,2 @@
+# learning
+c lang learning
